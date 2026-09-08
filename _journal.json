@@ -1,0 +1,13 @@
+{
+  "version": "7",
+  "dialect": "mysql",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "5",
+      "when": 1788829838825,
+      "tag": "0000_material_guardsmen",
+      "breakpoints": true
+    }
+  ]
+}
